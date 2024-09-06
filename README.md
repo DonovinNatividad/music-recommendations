@@ -1,0 +1,1 @@
+This is a music recommendation system built by me that can be used to recommend music to users via inputting some songs and being able to see songs that you probably like! I am building this in Python with a implementation first as a CLI, and in the future as a web app! Thanks for the support!
